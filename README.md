@@ -56,7 +56,7 @@ This file contains all per-site likelihoods for the 23,676 sites corresponding t
 
 ## Section: Opening the phylogenomic black box
 
-Pending upload... 
+Pending upload...  
 Due to confinement policies, we are temporarily unable to access the supportive data for this section.
 We apologize to the readers, this will be fixed as soon as we can !
 
